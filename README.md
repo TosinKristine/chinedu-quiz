@@ -20,3 +20,6 @@ To use the system,
 1. ensure you have a WAMP OR XAMPP server installed
 2. import the backed up database
 3. access the application from your localhost
+4. login with yemi as both username and password and select a category.
+
+the system will check for each textbox for correct entry, so click on the sign in button as necessary to triger the check, it was done using AJAX
